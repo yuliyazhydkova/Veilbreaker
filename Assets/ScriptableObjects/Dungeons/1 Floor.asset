@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4b22a54c789be048a79c96b65510fe8, type: 3}
+  m_Name: 1 Floor
+  m_EditorClassIdentifier: 
+  combatLevels:
+  - {fileID: 691720950473209776, guid: 697baa7c0e86b9e498cfbbaac34abb7f, type: 3}
+  - {fileID: 7220339936613489745, guid: 4246111b2cc768548855b387afb117ac, type: 3}
+  - {fileID: 4361362291209802509, guid: 19a6e1c99c465f14593dc8574940d8e5, type: 3}
+  bossLevel: {fileID: 7708101786732384410, guid: 921324bfc98a46b44b38cdf602da2c0e, type: 3}
